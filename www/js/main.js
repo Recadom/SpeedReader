@@ -9,7 +9,7 @@ function change() {
     }
     
     document.getElementById("text").innerHTML = txt_disp;
-    num += 1;
+    num += i;
 }
 
 var bool = false;
