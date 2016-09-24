@@ -1,0 +1,20 @@
+.down{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.full_width{
+    width: 100%;
+    padding: 1%;
+}
+
+.slider_stack{
+    position: relative;
+}
+
+.disp{
+    //background-color: aquamarine;
+    height: 80%;
+    padding-top: 20%
+}
